@@ -1,6 +1,6 @@
 # Bootstrap Lab
 
-For this lab, consult the [bootstrap docs](http://getbootstrap.com/) liberally. 
+For this lab, consult the [bootstrap docs](http://getbootstrap.com/) liberally. __HINT__: check out the solution branch to check your work `git checkout solution`
 
 1. In terminal, clone this repo.
 ```
