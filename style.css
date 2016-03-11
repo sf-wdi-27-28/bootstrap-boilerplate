@@ -16,3 +16,11 @@ body {
   border: 1px solid #333333;
   padding: 10px 15px;
 }
+
+.custom-button {
+  background-color: #a33075;
+}
+
+.custom-button:hover {
+  background-color: #FF69B4;
+}
