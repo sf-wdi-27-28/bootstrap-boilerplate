@@ -25,4 +25,4 @@ git clone https://github.com/sf-wdi-27-28/bootstrap-boilerplate.git
 
 #### More!
 
-Pick any website online, wireframe it on paper or whiteboard and create a simple bootstrap version with the bootstrap grid, buttons, navbar, lorem ipsum, and [Placehold.it](https://placehold.it/). (**Hint**: Use bootstrap's [image classes](http://getbootstrap.com/css/#images) to size images.)
+Pick any website online, wireframe it on paper or whiteboard and create a simple bootstrap version with the bootstrap grid, buttons, navbar, lorem ipsum, and [Placehold.it](https://placehold.it/). A good place to find a site to copy is [Made with Bootstrap](http://builtwithbootstrap.com/). (**Hint**: Use bootstrap's [image classes](http://getbootstrap.com/css/#images) to size images.)
