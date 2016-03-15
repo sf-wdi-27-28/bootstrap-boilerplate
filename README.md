@@ -2,15 +2,19 @@
 
 For this lab, consult the [bootstrap docs](http://getbootstrap.com/) liberally. __HINT__: check out the solution branch to check your work `git checkout solution`
 
-__ Throughout this lesson (and your developer life!), watch your indentation!! __
+__Throughout this lesson (and your developer life!), watch your indentation!!__
+
+Remember to commit and push frequently.
+
 #### Getting Started
-1. In terminal, clone this repo.
+1. Fork this repo.
+1. In terminal, clone your fork.
 ```
-git clone https://github.com/sf-wdi-27-28/bootstrap-boilerplate.git
+git clone https://github.com/YOUR_USERNAME/bootstrap-boilerplate.git
 ```
 
 #### Grid
-**Lorem Ipsum**: for these challenges, use [lorem ipsum](http://www.lipsum.com/feed/html) or [hipster ipsum](http://hipsum.co/) text to fill in your columns.
+**Lorem Ipsum**: for these challenges, use [lorem ipsum](http://www.lipsum.com/feed/html) or the always entertaining [hipster ipsum](http://hipsum.co/) text to fill in your columns.
 
 1. Using the bootstrap grid, make a grid that is 4 columns wide when on desktop (lg), 3 on laptop (md), 2 on tablet (sm), and 1 on mobile.
 
@@ -26,3 +30,10 @@ git clone https://github.com/sf-wdi-27-28/bootstrap-boilerplate.git
 #### More!
 
 Pick any website online, wireframe it on paper or whiteboard and create a simple bootstrap version with the bootstrap grid, buttons, navbar, lorem ipsum, and [Placehold.it](https://placehold.it/). A good place to find a site to copy is [Made with Bootstrap](http://builtwithbootstrap.com/). (**Hint**: Use bootstrap's [image classes](http://getbootstrap.com/css/#images) to size images.)
+
+#### Submitting
+To submit, create a pull request to the [original repo](https://github.com/sf-wdi-27-28/bootstrap-boilerplate). In the comments add info about how you felt about learning bootstrap.
+  ```
+  comfort: 3/5
+  completeness: 4/5
+  ```
