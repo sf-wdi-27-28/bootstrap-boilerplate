@@ -4,7 +4,7 @@ For this lab, consult the [bootstrap docs](http://getbootstrap.com/) liberally. 
 
 __Throughout this lesson (and your developer life!), watch your indentation!!__
 
-Remember to commit and push frequently.
+Remember to commit frequently.
 
 #### Getting Started
 1. In terminal, clone this repo.
@@ -39,4 +39,4 @@ git clone https://github.com/sf-wdi-27-28/bootstrap-boilerplate.git facebook-clo
 Pick any website online, wireframe it on paper or whiteboard and create a simple bootstrap version with the bootstrap grid, buttons, navbar, lorem ipsum, and [Placehold.it](https://placehold.it/). A good place to find a site to copy is [Made with Bootstrap](http://builtwithbootstrap.com/). (**Hint**: Use bootstrap's [image classes](http://getbootstrap.com/css/#images) to size images.)
 
 #### Deliverable
-Take a screenshot of your copy of a site and post it in funny-biz noting what site you copied! So make it look preeeetty. 
+Take a screenshot of your copy of a site and post it in funny-biz noting what site you copied! So make it look preeeetty.
