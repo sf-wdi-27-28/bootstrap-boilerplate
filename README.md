@@ -29,12 +29,18 @@ git clone https://github.com/YOUR_USERNAME/bootstrap-boilerplate.git
 
 1. Add 3 more buttons. Add a custom class with custom css to at least 2 of the buttons. Play with `:hover`.
 
-#### More!
+#### Copy a Site
+
+Clone another copy of this codebase. Make sure to clone the repo that is in YOUR To give the folder a different name, write the new name after the url like so
+
+```
+git clone https://github.com/YOUR_USERNAME/bootstrap-boilerplate.git facebook-clone
+```
 
 Pick any website online, wireframe it on paper or whiteboard and create a simple bootstrap version with the bootstrap grid, buttons, navbar, lorem ipsum, and [Placehold.it](https://placehold.it/). A good place to find a site to copy is [Made with Bootstrap](http://builtwithbootstrap.com/). (**Hint**: Use bootstrap's [image classes](http://getbootstrap.com/css/#images) to size images.)
 
 #### Submitting
-To submit, create a pull request to the [original repo](https://github.com/sf-wdi-27-28/bootstrap-boilerplate). In the comments add info about how you felt about learning bootstrap.
+You will only submit your copy of another site. To submit, create a pull request to the [original repo](https://github.com/sf-wdi-27-28/bootstrap-boilerplate). In the comments add info about how you felt about learning bootstrap.
   ```
 comfort: 3/5
 completeness: 4/5
