@@ -15,7 +15,7 @@ git clone https://github.com/sf-wdi-27-28/bootstrap-boilerplate.git
 #### Grid
 **Lorem Ipsum**: for these challenges, use [lorem ipsum](http://www.lipsum.com/feed/html) or the always entertaining [hipster ipsum](http://hipsum.co/) text to fill in your columns.
 
-1. Using the bootstrap grid, make a grid that is 3 Columns on Tablet (sm), Laptop (md), and Desktop (lg), 1 Column on Mobile(sm).
+1. Using the bootstrap grid, make a grid that is 3 Columns on Tablet (sm), Laptop (md), and Desktop (lg), 1 Column on Mobile (xs).
 
 1. Using the bootstrap grid, make a grid that is 4 columns wide when on desktop (lg), 3 on laptop (md), 2 on tablet (sm), and 1 on mobile.
 
